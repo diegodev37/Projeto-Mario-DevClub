@@ -5,4 +5,4 @@
 <h2>Projeto ja com responsividade mobile!</h2>
 https://diegodevtec.netlify.app/
 
-<img src="https://github.com/diegodev37/Mario-DEVCLUB/blob/main/img/img%20mario%20github_Easy-Resize.com.jpg?raw=true">
+<img src="https://github.com/diegodev37/Projeto-Mario-DevClub/blob/main/img/Novo%20Projeto.jpg?raw=true">
