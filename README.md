@@ -1,5 +1,4 @@
 <h1>Projeto Mario Dev Club</h1>
-<br>
 
 <h2>Tecnologias ultilizadaz HTML / CSS / JavaScript</h2>
 
