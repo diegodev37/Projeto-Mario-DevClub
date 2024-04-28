@@ -1,8 +1,16 @@
-<h1><Projeto Mario Dev Club/></h1>
+<h1>Projeto Mario Dev Club</h1>
 <br>
 
 <h2>Tecnologias ultilizadaz HTML / CSS / JavaScript</h2>
-<h2>Projeto ja com responsividade mobile!</h2>
+
+<p> Aqui aplicamos nossos conhecimentos que estamos adquirindo junto ao professor Rodolfo Mori no DevClub, trabalhamos funcionalidades com JavaScript, onde podemos ver na prática a mágica acontecendo com essa linguam de progamação que tanto é utilizada no mundo WEB.</p>
+
+<h2>Projeto já com responsividade!</h2>
+<p>
+  -  Mobile
+  -  Tablet
+  -  Desktop
+</p>
 
 https://diegodevtec.netlify.app/
 
