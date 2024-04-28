@@ -1,5 +1,5 @@
 <h1>Projeto Mario Dev Club</h1>
-* Funcionalidade
+<p>* Funcionalidade</p>
 * Layout agradável
 * Melhor exposição do profissional
 <h2>Tecnologias ultilizadaz HTML / CSS / JavaScript</h2>
